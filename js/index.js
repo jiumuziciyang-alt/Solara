@@ -414,7 +414,7 @@ const SOURCE_OPTIONS = [
     { value: "netease", label: "网易云音乐" },
     { value: "kuwo", label: "酷我音乐" },
     { value: "tencent", label: "QQ音乐" },
-    { value: "kugou", label: "酷狗音乐" },
+    { value: "ytmusic", label: "油管" },
     { value: "joox", label: "JOOX音乐" }
 ];
 
